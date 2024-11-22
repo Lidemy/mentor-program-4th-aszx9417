@@ -6,5 +6,4 @@
 
 1.建立資料夾 mkdir wifi
 2.前往資料夾 cd wifi
-3.touch afu.js
-即可
+3.touch afu.js即可
